@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Synap_connection.srcs/sources_1/new/synap_connection.v" \
+"../../../../Synap_connection.srcs/sources_1/new/synap_connection_percore.v" \
+"../../../../Synap_connection.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,216 @@
+/*
+
+Xilinx Vivado v2021.1 (64-bit) [Major: 2021, Minor: 1]
+SW Build: 3247384 on Thu Jun 10 19:36:33 MDT 2021
+IP Build: 3246043 on Fri Jun 11 00:30:35 MDT 2021
+
+Process ID (PID): 24872
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Tue Dec 19 20:27:52 GMT+07:00 2023
+Time zone: 	GMT+07:00 (GMT+07:00)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 16
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+
+Java version: 	11.0.2 64-bit
+Java home: 	E:/Xilinx/Vivado/2021.1/tps/win64/jre11.0.2
+Java executable: 	E:/Xilinx/Vivado/2021.1/tps/win64/jre11.0.2/bin/java.exe
+Java initial memory (-Xms): 	256 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	pc
+User home directory: C:/Users/pc
+User working directory: D:/DO_AN_TOT_NGHIEP/Synap_connection
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: E:/Xilinx/Vivado
+HDI_APPROOT: E:/Xilinx/Vivado/2021.1
+RDI_DATADIR: E:/Xilinx/Vivado/2021.1/data
+RDI_BINDIR: E:/Xilinx/Vivado/2021.1/bin
+
+Vivado preferences file: C:/Users/pc/AppData/Roaming/Xilinx/Vivado/2021.1/vivado.xml
+Vivado preferences directory: C:/Users/pc/AppData/Roaming/Xilinx/Vivado/2021.1/
+Vivado layouts directory: C:/Users/pc/AppData/Roaming/Xilinx/Vivado/2021.1/data/layouts
+PlanAhead jar file: 	E:/Xilinx/Vivado/2021.1/lib/classes/planAhead.jar
+Vivado log file: 	D:/DO_AN_TOT_NGHIEP/Synap_connection/vivado.log
+Vivado journal file: 	D:/DO_AN_TOT_NGHIEP/Synap_connection/vivado.jou
+Engine tmp dir: 	D:/DO_AN_TOT_NGHIEP/Synap_connection/.Xil/Vivado-24872-Admin-PC
+
+Xilinx Environment Variables
+----------------------------
+XILINX: E:/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_DSP: E:/Xilinx/Vivado/2021.1/ids_lite/ISE
+XILINX_HLS: E:/Xilinx/Vitis_HLS/2021.1
+XILINX_PLANAHEAD: E:/Xilinx/Vivado/2021.1
+XILINX_SDK: E:/Xilinx/Vitis/2021.1
+XILINX_VITIS: E:/Xilinx/Vitis/2021.1
+XILINX_VIVADO: E:/Xilinx/Vivado/2021.1
+XILINX_VIVADO_HLS: E:/Xilinx/Vivado/2021.1
+
+
+GUI allocated memory:	256 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,363 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// TclEventType: PROJECT_OPEN_DIALOG
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 75 MB (+76592kb) [00:00:08]
+// [Engine Memory]: 1,363 MB (+1278155kb) [00:00:08]
+// bz (cs):  Open Checkpoint : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: FLOW_ADDED
+// Tcl Message: open_checkpoint D:/DO_AN_TOT_NGHIEP/Synap_connection/checkpoint_old.dcp 
+// Tcl Message: Command: open_checkpoint D:/DO_AN_TOT_NGHIEP/Synap_connection/checkpoint_old.dcp  Starting open_checkpoint Task  Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.033 . Memory (MB): peak = 1361.961 ; gain = 0.000 
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_ADD
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 108 MB (+30545kb) [00:00:11]
+// [GUI Memory]: 119 MB (+5828kb) [00:00:11]
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Xilinx/Vivado/2021.1/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,363 MB. GUI used memory: 62 MB. Current time: 12/19/23, 8:27:53 PM GMT+07:00
+// TclEventType: FLOORPLAN_MODIFY
+// TclEventType: DESIGN_NEW
+// HMemoryUtils.trashcanNow. Engine heap size: 2,011 MB. GUI used memory: 63 MB. Current time: 12/19/23, 8:28:07 PM GMT+07:00
+// [Engine Memory]: 2,011 MB (+608010kb) [00:00:26]
+// [Engine Memory]: 2,136 MB (+24646kb) [00:00:27]
+// TclEventType: DESIGN_NEW
+// TclEventType: HFED_INIT_ROUTE_STORAGE_COMPLETED
+// [GUI Memory]: 132 MB (+7105kb) [00:00:28]
+// [GUI Memory]: 143 MB (+4060kb) [00:00:28]
+// Device: addNotify
+// DeviceView Instantiated
+// TclEventType: CURR_DESIGN_SET
+// WARNING: HEventQueue.dispatchEvent() is taking  1546 ms.
+// TclEventType: PROJ_DESIGN_MODE_SET
+// Tcl Message: INFO: [Device 21-403] Loading part xc7k325tffg900-2 
+// Tcl Message: Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.007 . Memory (MB): peak = 1462.082 ; gain = 0.000 
+// Tcl Message: INFO: [Project 1-479] Netlist was created with Vivado 2021.1 INFO: [Project 1-570] Preparing netlist for logic optimization INFO: [Timing 38-478] Restoring timing data from binary archive. INFO: [Timing 38-479] Binary timing data restore complete. INFO: [Project 1-856] Restoring constraints from binary archive. INFO: [Project 1-853] Binary constraint restore complete. 
+// Tcl Message: Reading XDEF placement. Reading placer database... Reading XDEF routing. 
+// Tcl Message: Read XDEF File: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.166 . Memory (MB): peak = 2224.191 ; gain = 17.500 
+// Tcl Message: Restored from archive | CPU: 0.000000 secs | Memory: 0.000000 MB | 
+// Tcl Message: Finished XDEF File Restore: Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.166 . Memory (MB): peak = 2224.191 ; gain = 17.500 Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.001 . Memory (MB): peak = 2224.191 ; gain = 0.000 
+// Tcl Message: INFO: [Project 1-111] Unisim Transformation Summary: No Unisim elements were transformed.  
+// TclEventType: PROJ_DESIGN_MODE_SET
+// TclEventType: PROJECT_DASHBOARD_GADGET_DELETE
+// TclEventType: PROJ_DESIGN_MODE_SET
+// Device view-level: 0.0
+// [Engine Memory]: 2,249 MB (+6601kb) [00:00:29]
+// TclEventType: PROJ_DESIGN_MODE_SET
+// TclEventType: DESIGN_MODE_CHANGE
+// RouteApi: Init Delay Mediator Swing Worker Finished
+// Tcl Message: INFO: [Project 1-604] Checkpoint was created with Vivado v2021.1 (64-bit) build 3247384 
+// Tcl Message: open_checkpoint: Time (s): cpu = 00:00:13 ; elapsed = 00:00:21 . Memory (MB): peak = 2408.289 ; gain = 1046.328 
+// Project name: project_checkpoint_old; location: D:/DO_AN_TOT_NGHIEP/Synap_connection; part: xc7k325tffg900-2
+dismissDialog("Open Checkpoint"); // bz
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+selectGraphicalView(PAResourceOtoP.PAViews_DEVICE, -104580, 7920690); // E
+// Device view-level: 1.2
+// [GUI Memory]: 150 MB (+509kb) [00:00:33]
+// [GUI Memory]: 158 MB (+485kb) [00:00:33]
+// [GUI Memory]: 166 MB (+65kb) [00:00:33]
+// [GUI Memory]: 175 MB (+168kb) [00:00:33]
+// [GUI Memory]: 184 MB (+249kb) [00:00:33]
+selectGraphicalView(PAResourceOtoP.PAViews_DEVICE, 509385, 8529775); // E
+// Device view-level: 2.1
+// [GUI Memory]: 193 MB (+286kb) [00:00:35]
+selectGraphicalView(PAResourceOtoP.PAViews_DEVICE, 565825, 8626953); // E
+// Device view-level: 2.9
+// [GUI Memory]: 203 MB (+209kb) [00:00:37]
+selectGraphicalView(PAResourceOtoP.PAViews_DEVICE, 591025, 8636531); // E
+// Device view-level: 3.3
+// HMemoryUtils.trashcanNow. Engine heap size: 2,278 MB. GUI used memory: 116 MB. Current time: 12/19/23, 8:28:18 PM GMT+07:00
+// [Engine Memory]: 2,361 MB (+221kb) [00:00:42]
+// [GUI Memory]: 214 MB (+254kb) [00:00:44]
+// [Engine Memory]: 2,480 MB (+331kb) [00:00:44]
+// [GUI Memory]: 225 MB (+475kb) [00:00:44]
+// [GUI Memory]: 236 MB (+197kb) [00:00:45]
+selectGraphicalView(PAResourceOtoP.PAViews_DEVICE, 598776, 8636839); // E
+// [GUI Memory]: 248 MB (+455kb) [00:00:52]
+// Device view-level: 3.6
+// Device view-level: 3.8
+// [GUI Memory]: 261 MB (+95kb) [00:00:54]
+// Device view-level: 4.0
+// HMemoryUtils.trashcanNow. Engine heap size: 2,597 MB. GUI used memory: 248 MB. Current time: 12/19/23, 8:28:35 PM GMT+07:00
+// Device view-level: 4.2
+// [GUI Memory]: 274 MB (+29kb) [00:00:55]
+// [GUI Memory]: 288 MB (+374kb) [00:00:56]
+// [Engine Memory]: 2,604 MB (+82kb) [00:00:56]
+// [GUI Memory]: 303 MB (+471kb) [00:00:56]
+// [GUI Memory]: 318 MB (+82kb) [00:00:57]
+// [GUI Memory]: 334 MB (+143kb) [00:00:58]
+// Device view-level: 4.0
+// Device view-level: 3.8
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 144 MB. Current time: 12/19/23, 8:28:40 PM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 119 MB. Current time: 12/19/23, 8:58:41 PM GMT+07:00
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 106 MB. Current time: 12/19/23, 9:28:44 PM GMT+07:00
+// Tcl Command: 'rdi::info_commands {re*}'
+// Tcl Command: 'rdi::info_commands {rep*}'
+// Tcl Command: 'rdi::info_commands {repo*}'
+// Tcl Command: 'rdi::info_commands {report*}'
+// Tcl Command: 'rdi::info_commands {report_*}'
+// Tcl Command: 'rdi::info_commands {report_u*}'
+// Tcl Command: 'rdi::info_commands {report_u*}'
+// Elapsed time: 4317 seconds
+setText(RDIResource.CommandsInput_TYPE_TCL_COMMAND_HERE, "report_utilization", true); // l
+// Tcl Command: 'report_utilization'
+// Tcl Command: 'report_utilization'
+// Tcl Message: report_utilization 
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 318, 247); // dS
+// Elapsed time: 67 seconds
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 338, 250); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 336, 273); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 313, 302); // dS
+selectCodeEditor(RDIResource.TclConsoleView_TCL_CONSOLE_CODE_EDITOR, 796, 277); // dS
+// Device view-level: 3.6
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 193 MB. Current time: 12/19/23, 9:42:16 PM GMT+07:00
+// Device view-level: 3.3
+// Device view-level: 3.1
+// Device view-level: 2.9
+// Device view-level: 2.7
+// Device view-level: 2.5
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 110 MB. Current time: 12/19/23, 9:42:19 PM GMT+07:00
+// Device view-level: 2.2
+// Device view-level: 2.0
+// Device view-level: 1.8
+// Device view-level: 1.6
+// Device view-level: 1.4
+// HMemoryUtils.trashcanNow. Engine heap size: 2,676 MB. GUI used memory: 110 MB. Current time: 12/19/23, 9:42:21 PM GMT+07:00
+// Device view-level: 1.6
+// Device view-level: 1.8
+// Device view-level: 2.0
+// Device view-level: 2.2

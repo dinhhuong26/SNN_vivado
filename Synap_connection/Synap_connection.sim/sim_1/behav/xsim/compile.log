@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sources_1/new/synap_connection.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module synap_connection
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sources_1/new/synap_connection_percore.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module synap_connection_percore
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sim_1/new/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench

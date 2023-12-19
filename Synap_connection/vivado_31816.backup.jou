@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Dec 16 10:26:30 2023
+# Process ID: 31816
+# Current directory: D:/DO_AN_TOT_NGHIEP/Synap_connection
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent30124 D:\DO_AN_TOT_NGHIEP\Synap_connection\checkpoint_old.dcp
+# Log file: D:/DO_AN_TOT_NGHIEP/Synap_connection/vivado.log
+# Journal file: D:/DO_AN_TOT_NGHIEP/Synap_connection\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_checkpoint D:/DO_AN_TOT_NGHIEP/Synap_connection/checkpoint_old.dcp
+report_utilization

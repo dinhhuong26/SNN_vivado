@@ -1,0 +1,140 @@
+Time resolution is 1 ps
+PASS!!! Input_number:   0,para[  0]: 0 connection_valid: 0
+PASS!!! Input_number:   1,para[  1]: 1 connection_valid: 1
+PASS!!! Input_number:   2,para[  2]: 1 connection_valid: 1
+PASS!!! Input_number:   3,para[  3]: 1 connection_valid: 1
+PASS!!! Input_number:   4,para[  4]: 1 connection_valid: 1
+PASS!!! Input_number:   5,para[  5]: 0 connection_valid: 0
+PASS!!! Input_number:   6,para[  6]: 0 connection_valid: 0
+PASS!!! Input_number:   7,para[  7]: 0 connection_valid: 0
+PASS!!! Input_number:   8,para[  8]: 0 connection_valid: 0
+PASS!!! Input_number:   9,para[  9]: 1 connection_valid: 1
+PASS!!! Input_number:  10,para[ 10]: 0 connection_valid: 0
+PASS!!! Input_number:  11,para[ 11]: 0 connection_valid: 0
+PASS!!! Input_number:  12,para[ 12]: 1 connection_valid: 1
+PASS!!! Input_number:  13,para[ 13]: 1 connection_valid: 1
+PASS!!! Input_number:  14,para[ 14]: 0 connection_valid: 0
+PASS!!! Input_number:  15,para[ 15]: 0 connection_valid: 0
+PASS!!! Input_number:  16,para[ 16]: 1 connection_valid: 1
+PASS!!! Input_number:  17,para[ 17]: 0 connection_valid: 0
+PASS!!! Input_number:  18,para[ 18]: 1 connection_valid: 1
+PASS!!! Input_number:  19,para[ 19]: 0 connection_valid: 0
+PASS!!! Input_number:  20,para[ 20]: 0 connection_valid: 0
+PASS!!! Input_number:  21,para[ 21]: 1 connection_valid: 1
+PASS!!! Input_number:  22,para[ 22]: 0 connection_valid: 0
+PASS!!! Input_number:  23,para[ 23]: 1 connection_valid: 1
+PASS!!! Input_number:  24,para[ 24]: 0 connection_valid: 0
+PASS!!! Input_number:  25,para[ 25]: 1 connection_valid: 1
+PASS!!! Input_number:  26,para[ 26]: 0 connection_valid: 0
+PASS!!! Input_number:  27,para[ 27]: 1 connection_valid: 1
+PASS!!! Input_number:  28,para[ 28]: 1 connection_valid: 1
+PASS!!! Input_number:  29,para[ 29]: 1 connection_valid: 1
+PASS!!! Input_number:  30,para[ 30]: 1 connection_valid: 1
+PASS!!! Input_number:  31,para[ 31]: 1 connection_valid: 1
+PASS!!! Input_number:  32,para[ 32]: 1 connection_valid: 1
+PASS!!! Input_number:  33,para[ 33]: 0 connection_valid: 0
+PASS!!! Input_number:  34,para[ 34]: 1 connection_valid: 1
+PASS!!! Input_number:  35,para[ 35]: 0 connection_valid: 0
+PASS!!! Input_number:  36,para[ 36]: 0 connection_valid: 0
+PASS!!! Input_number:  37,para[ 37]: 1 connection_valid: 1
+PASS!!! Input_number:  38,para[ 38]: 0 connection_valid: 0
+PASS!!! Input_number:  39,para[ 39]: 1 connection_valid: 1
+PASS!!! Input_number:  40,para[ 40]: 0 connection_valid: 0
+PASS!!! Input_number:  41,para[ 41]: 1 connection_valid: 1
+PASS!!! Input_number:  42,para[ 42]: 0 connection_valid: 0
+PASS!!! Input_number:  43,para[ 43]: 0 connection_valid: 0
+PASS!!! Input_number:  44,para[ 44]: 1 connection_valid: 1
+PASS!!! Input_number:  45,para[ 45]: 0 connection_valid: 0
+PASS!!! Input_number:  46,para[ 46]: 1 connection_valid: 1
+PASS!!! Input_number:  47,para[ 47]: 1 connection_valid: 1
+PASS!!! Input_number:  48,para[ 48]: 1 connection_valid: 1
+PASS!!! Input_number:  49,para[ 49]: 1 connection_valid: 1
+PASS!!! Input_number:  50,para[ 50]: 0 connection_valid: 0
+PASS!!! Input_number:  51,para[ 51]: 1 connection_valid: 1
+PASS!!! Input_number:  52,para[ 52]: 0 connection_valid: 0
+PASS!!! Input_number:  53,para[ 53]: 1 connection_valid: 1
+PASS!!! Input_number:  54,para[ 54]: 0 connection_valid: 0
+PASS!!! Input_number:  55,para[ 55]: 0 connection_valid: 0
+PASS!!! Input_number:  56,para[ 56]: 1 connection_valid: 1
+PASS!!! Input_number:  57,para[ 57]: 0 connection_valid: 0
+PASS!!! Input_number:  58,para[ 58]: 1 connection_valid: 1
+PASS!!! Input_number:  59,para[ 59]: 0 connection_valid: 0
+PASS!!! Input_number:  60,para[ 60]: 1 connection_valid: 1
+PASS!!! Input_number:  61,para[ 61]: 0 connection_valid: 0
+PASS!!! Input_number:  62,para[ 62]: 1 connection_valid: 1
+PASS!!! Input_number:  63,para[ 63]: 0 connection_valid: 0
+PASS!!! Input_number:  64,para[ 64]: 1 connection_valid: 1
+PASS!!! Input_number:  65,para[ 65]: 1 connection_valid: 1
+PASS!!! Input_number:  66,para[ 66]: 0 connection_valid: 0
+PASS!!! Input_number:  67,para[ 67]: 1 connection_valid: 1
+PASS!!! Input_number:  68,para[ 68]: 0 connection_valid: 0
+PASS!!! Input_number:  69,para[ 69]: 1 connection_valid: 1
+PASS!!! Input_number:  70,para[ 70]: 1 connection_valid: 1
+PASS!!! Input_number:  71,para[ 71]: 0 connection_valid: 0
+PASS!!! Input_number:  72,para[ 72]: 1 connection_valid: 1
+PASS!!! Input_number:  73,para[ 73]: 0 connection_valid: 0
+PASS!!! Input_number:  74,para[ 74]: 1 connection_valid: 1
+PASS!!! Input_number:  75,para[ 75]: 0 connection_valid: 0
+PASS!!! Input_number:  76,para[ 76]: 0 connection_valid: 0
+PASS!!! Input_number:  77,para[ 77]: 0 connection_valid: 0
+PASS!!! Input_number:  78,para[ 78]: 0 connection_valid: 0
+PASS!!! Input_number:  79,para[ 79]: 0 connection_valid: 0
+PASS!!! Input_number:  80,para[ 80]: 1 connection_valid: 1
+PASS!!! Input_number:  81,para[ 81]: 0 connection_valid: 0
+PASS!!! Input_number:  82,para[ 82]: 1 connection_valid: 1
+PASS!!! Input_number:  83,para[ 83]: 0 connection_valid: 0
+PASS!!! Input_number:  84,para[ 84]: 1 connection_valid: 1
+PASS!!! Input_number:  85,para[ 85]: 0 connection_valid: 0
+PASS!!! Input_number:  86,para[ 86]: 1 connection_valid: 1
+PASS!!! Input_number:  87,para[ 87]: 0 connection_valid: 0
+PASS!!! Input_number:  88,para[ 88]: 1 connection_valid: 1
+PASS!!! Input_number:  89,para[ 89]: 0 connection_valid: 0
+PASS!!! Input_number:  90,para[ 90]: 1 connection_valid: 1
+PASS!!! Input_number:  91,para[ 91]: 0 connection_valid: 0
+PASS!!! Input_number:  92,para[ 92]: 0 connection_valid: 0
+PASS!!! Input_number:  93,para[ 93]: 1 connection_valid: 1
+PASS!!! Input_number:  94,para[ 94]: 0 connection_valid: 0
+PASS!!! Input_number:  95,para[ 95]: 1 connection_valid: 1
+PASS!!! Input_number:  96,para[ 96]: 0 connection_valid: 0
+PASS!!! Input_number:  97,para[ 97]: 1 connection_valid: 1
+PASS!!! Input_number:  98,para[ 98]: 1 connection_valid: 1
+PASS!!! Input_number:  99,para[ 99]: 0 connection_valid: 0
+PASS!!! Input_number: 100,para[100]: 1 connection_valid: 1
+PASS!!! Input_number: 101,para[101]: 0 connection_valid: 0
+PASS!!! Input_number: 102,para[102]: 1 connection_valid: 1
+PASS!!! Input_number: 103,para[103]: 0 connection_valid: 0
+PASS!!! Input_number: 104,para[104]: 0 connection_valid: 0
+PASS!!! Input_number: 105,para[105]: 0 connection_valid: 0
+PASS!!! Input_number: 106,para[106]: 0 connection_valid: 0
+PASS!!! Input_number: 107,para[107]: 1 connection_valid: 1
+PASS!!! Input_number: 108,para[108]: 1 connection_valid: 1
+PASS!!! Input_number: 109,para[109]: 0 connection_valid: 0
+PASS!!! Input_number: 110,para[110]: 1 connection_valid: 1
+PASS!!! Input_number: 111,para[111]: 0 connection_valid: 0
+PASS!!! Input_number: 112,para[112]: 1 connection_valid: 1
+PASS!!! Input_number: 113,para[113]: 0 connection_valid: 0
+PASS!!! Input_number: 114,para[114]: 1 connection_valid: 1
+PASS!!! Input_number: 115,para[115]: 0 connection_valid: 0
+PASS!!! Input_number: 116,para[116]: 1 connection_valid: 1
+PASS!!! Input_number: 117,para[117]: 0 connection_valid: 0
+PASS!!! Input_number: 118,para[118]: 1 connection_valid: 1
+PASS!!! Input_number: 119,para[119]: 1 connection_valid: 1
+PASS!!! Input_number: 120,para[120]: 0 connection_valid: 0
+PASS!!! Input_number: 121,para[121]: 1 connection_valid: 1
+PASS!!! Input_number: 122,para[122]: 0 connection_valid: 0
+PASS!!! Input_number: 123,para[123]: 1 connection_valid: 1
+PASS!!! Input_number: 124,para[124]: 0 connection_valid: 0
+PASS!!! Input_number: 125,para[125]: 0 connection_valid: 0
+PASS!!! Input_number: 126,para[126]: 1 connection_valid: 1
+PASS!!! Input_number: 127,para[127]: 0 connection_valid: 0
+PASS!!! Input_number: 128,para[128]: 1 connection_valid: 1
+PASS!!! Input_number: 129,para[129]: 0 connection_valid: 0
+PASS!!! Input_number: 130,para[130]: 1 connection_valid: 1
+PASS!!! Input_number: 131,para[131]: 0 connection_valid: 0
+PASS!!! Input_number: 132,para[132]: 1 connection_valid: 1
+PASS!!! Input_number: 133,para[133]: 0 connection_valid: 0
+PASS!!! Input_number: 134,para[134]: 0 connection_valid: 0
+PASS!!! Input_number: 135,para[135]: 1 connection_valid: 1
+PASS!!! Input_number: 136,para[136]: 1 connection_valid: 1
+PASS!!! Input_number: 137,para[137]: 0 connection_valid: 0
+PASS!!! Input_number: 138,

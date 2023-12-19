@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Sat Dec 16 00:10:25 2023
+# Process ID: 30868
+# Current directory: D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.runs/synth_1
+# Command line: vivado.exe -log synap_connection.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source synap_connection.tcl
+# Log file: D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.runs/synth_1/synap_connection.vds
+# Journal file: D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source synap_connection.tcl -notrace

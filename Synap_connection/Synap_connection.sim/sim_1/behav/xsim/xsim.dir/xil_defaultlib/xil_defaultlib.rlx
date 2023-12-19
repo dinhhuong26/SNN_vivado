@@ -1,0 +1,8 @@
+0.7
+2020.2
+Jun 10 2021
+20:04:57
+D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sim_1/new/testbench.v,1702657118,verilog,,,,testbench,,,,,,,,
+D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sources_1/new/synap_connection.v,1702655075,verilog,,D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sources_1/new/synap_connection_percore.v,,synap_connection,,,,,,,,
+D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sources_1/new/synap_connection_percore.v,1702659262,verilog,,D:/DO_AN_TOT_NGHIEP/Synap_connection/Synap_connection.srcs/sim_1/new/testbench.v,,synap_connection_percore,,,,,,,,
